@@ -1,2 +1,2 @@
 # Dicoding
-Dicoding Course
+Dicoding Indonesia Course
